@@ -3,6 +3,7 @@ Repository containing all the custom skill files made by me.
 
 ## Available Skills
 - `sb-knowledge-note.md`: Knowledge note-taking skill.
+- `sb-journal-writer.md`: Summarizes agent actions into a humanized journal.md.
 
 ## How to Install
 
