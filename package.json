@@ -1,0 +1,29 @@
+{
+  "name": "asifdotexe-skills",
+  "version": "1.0.0",
+  "description": "Personal collection of skills to streamline my own process, but useful for anyone with a similar use case.",
+  "main": "install.js",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asifdotexe/skill-issue.git"
+  },
+  "files": [
+    "install.js",
+    "skills/"
+  ],
+  "keywords": [
+    "antigravity",
+    "skills",
+    "ai",
+    "llm",
+    "agents"
+  ],
+  "author": "Asif Sayyed <asifdotexe@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
