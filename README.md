@@ -11,7 +11,7 @@ Repository containing all the custom skill files made by me.
 Install globally via NPM. The postinstall script automatically places the skill in your Antigravity skills folder.
 
 ```bash
-npm install -g agy-skill-issue
+npm install -g asifdotexe-skills
 ```
 
 **Method 2: Manual Copy**
