@@ -13,7 +13,8 @@ if (!fs.existsSync(skillDir)) {
 // Define the list of skill files to copy
 // -> To add new skills later, just add their filenames to this array!
 const skillsToInstall = [
-  'sb-knowledge-note.md'
+  'sb-knowledge-note.md',
+  'sb-journal-writer.md'
 ];
 
 // Loop through the array and copy each skill to the user's skills folder
