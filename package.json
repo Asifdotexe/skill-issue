@@ -1,0 +1,16 @@
+{
+  "name": "agy-skill-issue",
+  "version": "1.0.0",
+  "description": "Custom Antigravity skills collection",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "keywords": [
+    "antigravity",
+    "skills",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT"
+}
